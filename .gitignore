@@ -1,0 +1,26 @@
+# Carpeta de dependencias
+/node_modules
+
+# Archivos de compilación
+/dist
+
+# Archivos de entorno
+.env
+
+# Archivos de registro
+/logs
+
+# Otros archivos generados
+*.log
+*.pid
+
+# MacOS
+.DS_Store
+
+# Editor y archivos temporales
+.vscode
+*.swp
+*.swo
+*.swx
+*.bak
+*~
