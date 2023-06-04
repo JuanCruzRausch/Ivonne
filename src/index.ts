@@ -1,6 +1,5 @@
 import mongoose from 'mongoose';
 import app from './app';
-require('dotenv').config(); // Configurar dotenv
 
 // Configuración de MongoDB
 const mongoURL: string | undefined = process.env.MONGO_URL;
